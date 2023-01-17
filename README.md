@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nano0018
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python and HTML5
+- 🌱 I’m currently learning Python, Java, JavaScript and HTML5
 
 
 <!---
