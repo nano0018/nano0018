@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on [Python Webscrapper](https://github.com/nano0018/webscraping)  <br>  <br>- 🌱 I’m currently learning React, Vue, Python, PHP and new skills in JavaScript  <br>  <br>- ⚡ Fun fact: I use 4 spaces in VSCode  
+<br>- 🔭 I’m currently working on [E-Commerce Store](https://github.com/nano0018/backend-node-platzi)  <br>  <br>- 🌱 I’m currently learning React, Vue, Python, PHP and new skills in JavaScript  <br>  <br>- ⚡ Fun fact: I use 4 spaces in VSCode  
 
 
 ## 🌐 Socials:
